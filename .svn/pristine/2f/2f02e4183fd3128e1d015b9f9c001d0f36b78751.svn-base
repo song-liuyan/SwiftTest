@@ -1,0 +1,17 @@
+//
+//  ReqiestManager.swift
+//  SwiftTest
+//
+//  Created by 清正 on 16/1/28.
+//  Copyright © 2016年 qz. All rights reserved.
+//
+
+import UIKit
+
+class ReqiestManager: NSObject {
+    
+    class func postWithURLString(urlString:String, params:NSDictionary, success:((AnyObject) -> Void), failure:((NSError) -> Void) ) {
+        
+        
+    }
+}

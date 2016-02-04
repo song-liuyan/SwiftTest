@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "cad86681-13be-4b75-a028-d9303cadd2a8++6246",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cad86681-13be-4b75-a028-d9303cadd2a8++6246" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "cad86681-13be-4b75-a028-d9303cadd2a8++6246" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "799369C5-883B-4E22-A5A5-FE53F3580346",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "cad86681-13be-4b75-a028-d9303cadd2a8++6246" : "SwiftTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/MySwiftTest",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cad86681-13be-4b75-a028-d9303cadd2a8++6246"
+    }
+  ]
+}
